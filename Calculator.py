@@ -1,7 +1,5 @@
 # Filename : test.py
-# author by : www.runoob.com
 
-# 定义函数
 def add(x, y):
    """相加"""
 
@@ -22,7 +20,6 @@ def divide(x, y):
 
    return x / y
 
-# 用户输入
 print("选择运算：")
 print("1、相加")
 print("2、相减")
